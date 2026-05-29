@@ -31,14 +31,14 @@ if answer == "7":
     print("Correct!\n")
     score += 1
 else:
-    print(Incorrect. There are 7 Army values.\n")
+    print("Incorrect. There are 7 Army values.\n")
 
 # Results
 print("==================")
 print("Final Score:", score, "/3")
 
 if score == 3:
-    print"Outstanding! Ready for the board."
+    print("Outstanding! Ready for the board.")
 elif score == 2:
     print("Good Job. Study a little more.")
 elif score == 1:
